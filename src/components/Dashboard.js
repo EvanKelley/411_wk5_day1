@@ -7,7 +7,6 @@ import {
     TableHead,
     TableRow
 } from '@mui/material'
-import cars from '../cars.json' // remove this
 
 const Dashboard = (props) => {
     return (
